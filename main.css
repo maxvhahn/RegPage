@@ -1,0 +1,40 @@
+body {
+    background-color: #00aaff;
+}
+
+nav {
+    text-align: right;
+    background: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+
+form {
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.sign-up{
+    width: 300px;
+    height: 400px;
+    font-size: large;
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 3px lightgrey;
+    outline
+}
+
+.button {
+    background-color: #0066ff;
+    width: 170px;
+    text-align: center;
+    margin-left: 65px;
+}
+
+.logos {
+    display: inline-block;
+}
